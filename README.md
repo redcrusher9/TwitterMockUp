@@ -101,7 +101,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/7iu9ooM.gif' title='Twitter1' width='800' alt='Twitter1' />
+<img src='https://i.imgur.com/7iu9ooM.gif' title='Twitter 1' width='800' alt='Twitter1' />
 
 GIF created with [imgur](https://imgur.com/upload).
 
